@@ -1,0 +1,9 @@
+text = input("Enter a string: ")
+char = input("Enter a character: ")
+
+count = 0
+for c in text:
+    if c == char:
+        count = count + 1
+
+print( count)
