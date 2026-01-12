@@ -54,4 +54,32 @@ On the first day of my internship, I covered fundamental Python concepts along w
 20. **Merge Lists:** Merging two sorted lists.
 
 ---
-**Author:** Asad Riaz
+## Day 03: Data Analysis & Visualization (Pandas & Matplotlib) 🐼📊
+
+In this session, I performed extensive data manipulation using **Pandas** and created visualizations using **Matplotlib/Seaborn**. The tasks involved processing a Products Dataset.
+
+### 🔹 Key Learnings & Operations:
+* **Data Handling:**
+    * Converted Dictionary to DataFrame & saved as **CSV**.
+    * Loaded data and performed Data Inspection (Shape, Dtypes, Info, Describe).
+    * Checked for Missing Values (`isnull`).
+
+* **Data Transformation:**
+    * **Sorting:** Sorted rows by rating (Ascending/Descending).
+    * **Columns:** Renamed columns (`image` -> `img_path`), Dropped columns, and created new ones (`rating_squared`, `is_low_rated`).
+    * **Indexing:** Reset index and Set `pid` as the official index.
+
+* **CRUD Operations:**
+    * **Update:** Created functions to update product ratings and save changes.
+    * **Delete:** Removed specific products by index.
+
+* **Advanced Selection:**
+    * Used **`.loc`** and **`.iloc`** for specific row/column slicing.
+    * Filtered data (e.g., Products with Rating < 2 or Price < 100).
+    * Generated random prices (80-1200) for analysis.
+
+### 📈 Visualizations Created:
+1.  **Histogram:** Rating distribution (bins=8) with mean line.
+2.  **Count Plot:** Frequency of specific ratings.
+3.  **Horizontal Bar Chart:** Product vs. Rating comparison.
+4.  **Box Plot:** To analyze the spread of ratings.
