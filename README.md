@@ -1,40 +1,30 @@
-# 🐍 Python Internship Tasks - Day 1
+# 🐍 Python Internship Tasks
 
-This repository contains my solutions for the **Day 1 Internship Tasks**. I have solved 20 logical programming problems to demonstrate my grasp of Python syntax, logic building, and algorithms.
-
-## 📂 Project Structure
-Each problem is solved using Python best practices.
-
-### ✅ Problems Solved:
-
-1.  **Swap Variables:** Swapping values without using a third variable.
-2.  **Filter List:** Function to extract even numbers from a list.
-3.  **Reverse String:** Accepting input and reversing the string order.
-4.  **Prime Number Check:** Logic to determine if a number is prime.
-5.  **Character Count:** Counting specific character occurrences in a string.
-6.  **Factorial (Recursion):** Calculating factorial using a recursive function.
-7.  **Palindrome Check:** Verifying if a number/string is a palindrome.
-8.  **Find Max:** Returning the largest number from a list.
-9.  **Remove Duplicates:** Cleaning a list while preserving order.
-10. **Most Frequent Element:** Finding the most common item in a list.
-11. **Word Counter:** Counting total words in a sentence.
-12. **Temperature Converter:** Celsius to Fahrenheit conversion.
-13. **Perfect Square:** Checking if a number is a perfect square.
-14. **Common Elements:** Finding intersection of two lists.
-15. **Sort Strings:** Alphabetical sorting of a list.
-16. **Fibonacci Series:** Generating series up to `n`.
-17. **Sum of Digits:** Calculating sum of all digits in a number.
-18. **File Handling:** Reading a file and counting lines.
-19. **GCD Calculator:** Finding Greatest Common Divisor of two numbers.
-20. **Merge Lists:** Merging two sorted lists into one.
+This repository contains my daily tasks and solutions during my Python Internship.
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **IDE:** VS Code / Jupyter Notebook
+## 📅 Day 1: Python Basics, Data Structures & OOP
 
-## 🚀 How to Run
-You can run any specific task file using the terminal:
-```bash
-python task_filename.py
+On the first day of my internship, I covered fundamental Python concepts along with Object-Oriented Programming (OOP) and Error Handling.
+
+### 🚀 Key Concepts Covered:
+- **Core Python:** Loops (`for`, `range`) and Math functions.
+- **Data Structures:** Working with `Sets` and `Dictionaries`.
+- **OOP:** Classes, Inheritance, and Method Overriding.
+- **File Handling:** Reading files and handling errors with `try-except`.
+
+### ✅ Tasks Completed:
+
+1.  **Area of Circle:** Calculated area using user input radius and `math.pi`.
+2.  **Reverse Loop:** Printed numbers from 20 down to 1 using a `for` loop.
+3.  **Prime Checker:** Created a function `is_prime(n)` to check for prime numbers.
+4.  **Unique Words:** Used a **Set** to find unique words in a string.
+5.  **File Reader:** Read a text file (`poem.txt`) to count lines.
+6.  **Phonebook Dict:** Built a dictionary for contact storage.
+7.  **OOP (Inheritance):**
+    - Created a base class `Animal` and derived class `Dog`.
+    - Used **Method Overriding** for the `speak()` function.
+8.  **Error Handling:** Used `try-except` to handle "File not found" errors safely.
+
+---
