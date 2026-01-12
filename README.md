@@ -28,3 +28,30 @@ On the first day of my internship, I covered fundamental Python concepts along w
 8.  **Error Handling:** Used `try-except` to handle "File not found" errors safely.
 
 ---
+## 📅 Day 2: Logic Building & Algorithms
+**Focus:** Strengthening logic through 20 algorithmic problems involving Lists, Strings, Recursion, and Math.
+
+### ✅ Problems Solved:
+1.  **Variable Swap:** Swapping values without a third variable.
+2.  **Even Numbers:** Filtering even numbers from a list.
+3.  **String Reversal:** Reversing a user input string.
+4.  **Prime Validator:** Function to check if a number is prime.
+5.  **Character Count:** Counting specific character occurrences.
+6.  **Factorial:** Using **Recursion** to find factorial.
+7.  **Palindrome:** Checking if a number is a palindrome.
+8.  **Find Max:** Finding the largest number in a list.
+9.  **Remove Duplicates:** Removing duplicates while keeping order.
+10. **Most Frequent:** Finding the most frequent element.
+11. **Word Counter:** Counting words in a sentence.
+12. **Temperature:** Converting Celsius to Fahrenheit.
+13. **Perfect Square:** Logic to check perfect squares.
+14. **Common Elements:** Finding intersection of two lists.
+15. **Sorting:** Sorting a list of strings alphabetically.
+16. **Fibonacci:** Generating Fibonacci series up to `n`.
+17. **Digit Sum:** Calculating the sum of digits of a number.
+18. **File Line Count:** Reading a file to count lines.
+19. **GCD:** Finding Greatest Common Divisor of two numbers.
+20. **Merge Lists:** Merging two sorted lists.
+
+---
+**Author:** Asad Riaz
